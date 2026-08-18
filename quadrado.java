@@ -5,7 +5,7 @@ public class quadrado {
         Scanner s = new Scanner(System.in);
         System.out.println("Digite um numero:");
         int numero = s.nextInt();
-        int quadrado = numero * numero;
+        int quadrado = numero * numero; // auto explicativo
         System.out.println("O quadrado do numero é: " + quadrado);
         s.close();
     }

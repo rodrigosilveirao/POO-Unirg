@@ -17,3 +17,7 @@ public class media {
     }
 
 }
+
+// Crio variaveis de nota e a soma, faco o while para que receba as 3 notas, smepre q receber a gente aumenta notas em 1 para que quanto chegue em 3
+// ela pare e faca a soma, soma recebe as 3 notas e as soma obviamente
+// dps ciramos variavel media e dividmos pela quantidade de notas esperadas

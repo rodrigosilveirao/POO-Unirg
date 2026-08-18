@@ -20,4 +20,7 @@ public class impar {
 
 }
 
+// Receve numero pelo scanner, enquanto usuario na digitar -1 continua o loop pelo codigo
+// se divisao do numero der resto 2 par se nao der impar
+
 
